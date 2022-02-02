@@ -1,0 +1,12 @@
+C:\Ashish\SEDOL_CHECKER\MG.SEDOL.ValidationLibrary\bin\Debug\net5.0\MG.SEDOL.ValidationLibrary.deps.json
+C:\Ashish\SEDOL_CHECKER\MG.SEDOL.ValidationLibrary\bin\Debug\net5.0\MG.SEDOL.ValidationLibrary.dll
+C:\Ashish\SEDOL_CHECKER\MG.SEDOL.ValidationLibrary\bin\Debug\net5.0\ref\MG.SEDOL.ValidationLibrary.dll
+C:\Ashish\SEDOL_CHECKER\MG.SEDOL.ValidationLibrary\bin\Debug\net5.0\MG.SEDOL.ValidationLibrary.pdb
+C:\Ashish\SEDOL_CHECKER\MG.SEDOL.ValidationLibrary\obj\Debug\net5.0\MG.SEDOL.ValidationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ashish\SEDOL_CHECKER\MG.SEDOL.ValidationLibrary\obj\Debug\net5.0\MG.SEDOL.ValidationLibrary.AssemblyInfoInputs.cache
+C:\Ashish\SEDOL_CHECKER\MG.SEDOL.ValidationLibrary\obj\Debug\net5.0\MG.SEDOL.ValidationLibrary.AssemblyInfo.cs
+C:\Ashish\SEDOL_CHECKER\MG.SEDOL.ValidationLibrary\obj\Debug\net5.0\MG.SEDOL.ValidationLibrary.csproj.CoreCompileInputs.cache
+C:\Ashish\SEDOL_CHECKER\MG.SEDOL.ValidationLibrary\obj\Debug\net5.0\MG.SEDOL.ValidationLibrary.dll
+C:\Ashish\SEDOL_CHECKER\MG.SEDOL.ValidationLibrary\obj\Debug\net5.0\ref\MG.SEDOL.ValidationLibrary.dll
+C:\Ashish\SEDOL_CHECKER\MG.SEDOL.ValidationLibrary\obj\Debug\net5.0\MG.SEDOL.ValidationLibrary.pdb
+C:\Ashish\SEDOL_CHECKER\MG.SEDOL.ValidationLibrary\obj\Debug\net5.0\MG.SEDOL.ValidationLibrary.csproj.AssemblyReference.cache

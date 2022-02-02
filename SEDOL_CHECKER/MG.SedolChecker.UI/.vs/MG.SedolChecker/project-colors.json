@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "92b2ed0f-0dfe-4507-a0f0-b9c1f9d769dc": {
+      "ProjectGuid": "92b2ed0f-0dfe-4507-a0f0-b9c1f9d769dc",
+      "DisplayName": "MG.SEDOLChecker.UI",
+      "ColorIndex": 0
+    },
+    "fcee70cf-4392-49db-8b5a-46b2822baa8c": {
+      "ProjectGuid": "fcee70cf-4392-49db-8b5a-46b2822baa8c",
+      "DisplayName": "MG.SEDOL.ValidationLibrary",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

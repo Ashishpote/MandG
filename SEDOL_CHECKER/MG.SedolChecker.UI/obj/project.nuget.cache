@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ylm9ScUQDtpn1cSIO82h7ipICTDecKs3/M0f58b5pOb7nFahukgCC9yHTKBIo1U4WoMUeJEEqnwFkrcP8NwPoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Ashish\\SEDOL_CHECKER\\MG.SedolChecker.UI\\MG.SEDOLChecker.UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TPAdmin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

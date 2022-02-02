@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MG.SEDOLChecker.UI", "\MG.SedolChecker.UI\MG.SEDOLChecker.UI.csproj", "{92B2ED0F-0DFE-4507-A0F0-B9C1F9D769DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MG.SEDOL.ValidationLibrary", "\MG.SEDOL.ValidationLibrary\MG.SEDOL.ValidationLibrary.csproj", "{FCEE70CF-4392-49DB-8B5A-46B2822BAA8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92B2ED0F-0DFE-4507-A0F0-B9C1F9D769DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92B2ED0F-0DFE-4507-A0F0-B9C1F9D769DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92B2ED0F-0DFE-4507-A0F0-B9C1F9D769DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92B2ED0F-0DFE-4507-A0F0-B9C1F9D769DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCEE70CF-4392-49DB-8B5A-46B2822BAA8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCEE70CF-4392-49DB-8B5A-46B2822BAA8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCEE70CF-4392-49DB-8B5A-46B2822BAA8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCEE70CF-4392-49DB-8B5A-46B2822BAA8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2AFAF8B-15B2-4292-ACD2-6F5FEBD29EFC}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MG.SEDOLChecker.UI/1.0.0": {
+        "dependencies": {
+          "MG.SEDOL.ValidationLibrary": "1.0.0"
+        },
+        "runtime": {
+          "MG.SEDOLChecker.UI.dll": {}
+        }
+      },
+      "MG.SEDOL.ValidationLibrary/1.0.0": {
+        "runtime": {
+          "MG.SEDOL.ValidationLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MG.SEDOLChecker.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MG.SEDOL.ValidationLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
